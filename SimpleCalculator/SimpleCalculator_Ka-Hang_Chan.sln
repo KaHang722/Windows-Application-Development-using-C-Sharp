@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleCalculator_Ka-Hang_Chan", "SimpleCalculator_Ka-Hang_Chan\SimpleCalculator_Ka-Hang_Chan.csproj", "{2654BD7C-035B-432B-AA07-81C49EF849DD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2654BD7C-035B-432B-AA07-81C49EF849DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2654BD7C-035B-432B-AA07-81C49EF849DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2654BD7C-035B-432B-AA07-81C49EF849DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2654BD7C-035B-432B-AA07-81C49EF849DD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B0659E39-2D90-496A-B7B3-BF21D24411DF}
+	EndGlobalSection
+EndGlobal
